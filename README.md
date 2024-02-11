@@ -1,15 +1,15 @@
-<h1 align="center"> ✧ A17 ✧ </h1>
+<h1 align="center"> 🥷🏼GOKAGE🥷🏼 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B61&random=false&width=435&lines=Hi+I+am+Gokage-md;Deploy+and+enjoy+my+features+!" />
 </p>
 
 <p align="center">
-   <a href="https://github.com/Kai0071">
+   <a href="https://github.com/ChristianNimb">
     <img src="https://www.pinterest.com/pin/1033576183217815213/" width="249">
 </p>
 
-<h1 align="center"> A17 BoT (Beta)</h1>
+<h1 align="center"> Gokage-md </h1>
 
 <p align="center"> 
   Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
@@ -25,18 +25,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071/A17">
+  <a href="https://github.com/ChristianNimb/Gokage">
     <img src="https://api.visitorbadge.io/api/visitors?path=Kai0071%2FA17&label=Repo%20Visitors&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071">
+  <a href="https://github.com/ChristianNimb">
     <img title="Maintain" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kai0071">
+  <a href="https://github.com/ChristianNimb">
     <img title="Next Update" src="https://img.shields.io/badge/Next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
