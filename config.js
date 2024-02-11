@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["916297175943", "919362639362"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["916297175943", "919362639362"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
-global.packname = "A17 Bot";                             //Do not change.
-global.author = "By: Kai";                               //Do not change.
+global.Owner = ["231775928537", "256763743987"];         //If you want singal number so global.Owner = ['231775928537'] Change into your number.
+global.OwnerNumber = ["231775928537", "256763743987"];   //If you want singal number so global.Owner = ['231775928537'] Change into your number.
+global.ownertag = ["231776366814"];
+global.OwnerName = "Christian";
+global.BotName = "Gokage";
+global.packname = "Gokage md";                             //Do not change.
+global.author = "By: Christian";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Tata City, India";
+global.location = "Montserrado, Liberia";
 global.reactmoji = "❤️";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' };
@@ -79,19 +79,19 @@ global.ntilink = []
 
 //
 global.mess = {
-  jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
+  jobdone: 'let us rolee...',
+  useradmin: 'Bro! This command is only for *Group Admins*',
+  botadmin: 'wait, dont you i  cant run this command without being an *Admin* of this group.',
+  botowner: 'Only my *Owner* can use this command, Brother',
+  grouponly: 'Huh bro command is only made for *Groups*',
+  privateonly: 'Huh bro this command is only made for *Private Chat*',
   botonly: 'Only the *Bot itself* can use this command!',
-  waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  waiting: 'Just Wait bro...',
+  nolink: 'Please provide me *link*, ',
   error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
+  banned: 'You are *Banned* fron using commands fool!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a porn star everywhere! This is not a NSFW enabled group!'
 
 }
 
