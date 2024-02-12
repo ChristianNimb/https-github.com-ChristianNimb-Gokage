@@ -12,7 +12,7 @@
 <h1 align="center"> Gokage-md </h1>
 
 <p align="center"> 
-  Hi there, I'm "GOKAGE," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, I'm "GOKAGE," a versatile WhatsApp bot created and reprogrammed by Gokage Team to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
 
 <p align="center"> 
   <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage/stargazers">
@@ -262,4 +262,4 @@ Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Cor
 - Use the bot at your own risk, keeping this warning in mind.
 <br>
 <br>
-<h1 align="center"> ✧ Thanks To FantoX001 ✧ </h1>
+<h1 align="center"> ✧ By Gokage Team ✧ </h1>
