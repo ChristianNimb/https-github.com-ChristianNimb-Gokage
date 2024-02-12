@@ -1,42 +1,42 @@
 <h1 align="center"> 🥷🏼GOKAGE🥷🏼 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B61&random=false&width=435&lines=Hi+I+am+Gokage-md;Deploy+and+enjoy+my+features+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B51&random=false&width=435&lines=Konichiwa+👋+I+am+Gokage-md;Deploy+and+enjoy+my+features+!" />
 </p>
 
 <p align="center">
    <a href="https://github.com/ChristianNimb">
-    <img src="https://www.pinterest.com/pin/1033576183217815213/" width="249">
+    <img src="https://a.uguu.se/pAoWMlmf.jpg" width="249">
 </p>
 
 <h1 align="center"> Gokage-md </h1>
 
 <p align="center"> 
-  Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, I'm "GOKAGE," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
 
 <p align="center"> 
-  <a href="https://github.com/Kai0071/A17/stargazers">
-    <img src="https://img.shields.io/github/stars/Kai0071/A17?style=social">
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage/stargazers">
+    <img src="https://img.shields.io/github/stars/ChristianNimb/https-github.com-ChristianNimb-Gokage">
 </p>
   
 <p align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
-    <img src="https://img.shields.io/github/forks/Kai0071/A17?label=Fork&style=social">
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage">
+    <img src="https://img.shields.io/github/forks/ChristianNimb/https-github.com-ChristianNimb-Gokage?label=Fork&style=social">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChristianNimb/Gokage">
-    <img src="https://api.visitorbadge.io/api/visitors?path=Kai0071%2FA17&label=Repo%20Visitors&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper">
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage">
+    <img src="https://api.visitorbadge.io/api/visitors?path=ChristianNimb%2Fhttps-github.com-ChristianNimb-Gokage&label=Repo%20Visitors&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChristianNimb">
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage">
     <img title="Maintain" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChristianNimb">
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage">
     <img title="Next Update" src="https://img.shields.io/badge/Next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" />
   </a>
 </p>
@@ -52,8 +52,8 @@
 <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
-    <img src="https://img.shields.io/badge/FORK A17 MD-h?color=white&style=for-the-badge&logo=stackshare" />
+  <a href="https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage/fork">
+    <img src="https://img.shields.io/badge/FORK Gokage MD-h?color=white&style=for-the-badge&logo=stackshare" />
   </a>
 </h2>
 
@@ -73,18 +73,18 @@
 
 ## Usage
 
-1. You will get qr code when you run the above replit. After scanning qr code you will get `creds.json` file in your personal chat, upload it to the `A17-SESSION` folder in your project directory. And done! you can now deploy your bot from following methods :
+1. You will get qr code when you run the above replit. After scanning qr code you will get `creds.json` file in your personal chat, upload it to the `Gokage-SESSION` folder in your project directory. And done! you can now deploy your bot from following methods :
 <h2 align="center"> ⚙️  Edit Config File  ⚙️ </h2>
 
-- Customize your configuration details in your repository, specifically in the [`config.js`](https://github.com/Kai0071/A17/blob/master/config.js) file.
+- Customize your configuration details in your repository, specifically in the [`config.js`](https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage/blob/master/config.js) file.
 
 ```js
 
-global.Owner = ["916297175943"];
-global.OwnerNumber = ["916297175943"];
-global.ownertag = ["916297175943"];
-global.OwnerName = "Kai";
-global.BotName = "A17";
+global.Owner = ["add number here"];
+global.OwnerNumber = ["add name here"];
+global.ownertag = ["add number here"];
+global.OwnerName = "Gokage Team";
+global.BotName = "Gokage";
 
 ```
 <br>
@@ -93,7 +93,7 @@ global.BotName = "A17";
 
 <h2 align="center">
   <a href="https://github.com/codespaces/new">
-    <img title="A17 on GitHub Codespaces" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+    <img title="Gokage on GitHub Codespaces" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
   </a>
 </h2>
 <br>
@@ -102,7 +102,7 @@ global.BotName = "A17";
 
 <h2 align="center">
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview">
-    <img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius">
+    <img title="Gokage on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius">
   </a>
 </h2>
 <br>
@@ -111,7 +111,7 @@ global.BotName = "A17";
 
 <h2 align="center">
   <a href="https://railway.app/new">
-    <img title="A17 on Railway" src="https://railway.app/button.svg" />
+    <img title="Gokage on Railway" src="https://railway.app/button.svg" />
   </a>
 </h2>
 <br>
@@ -119,8 +119,8 @@ global.BotName = "A17";
 <h2 align="center"> ❤  Deploy On Heroku  ❤ </h2>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Kai0071/A17">
-    <img title="A17 on Heroku" src="https://www.herokucdn.com/deploy/button.png" alt="Deploy on Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage">
+    <img title="Gokage on Heroku" src="https://www.herokucdn.com/deploy/button.png" alt="Deploy on Heroku">
   </a>
 </p>
 <br>
@@ -172,10 +172,10 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/Kai0071/A17
+git clone https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage
 ```
 ```
-cd A17
+cd Gokage
 ```
 ```
 npm i
@@ -199,10 +199,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/Kai0071/A17.git
+> git clone https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage.git
 ```
 ```
-> cd A17
+> cd Gokage
 ```
 ```
 > npm i
@@ -215,7 +215,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 <h2 align="center"> ⚙️ If You Want Autoreply/Bot Chat ⚙️
 </h2>
 
-Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Core.js`](https://github.com/Kai0071/A17/blob/main/Core.js)
+Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Core.js`](https://github.com/ChristianNimb/https-github.com-ChristianNimb-Gokage/blob/main/Core.js)
 ```js  
    
    /*
@@ -236,8 +236,8 @@ Comment out/delete /* , */ the code form your Core.js  in your own repo -- [`Cor
 <h1 align="center">  ⭐ Spacial Thanks To ⭐
 </h1>
 
-* [`🎐 FantoX`](https://github.com/FantoX001)
-* [`🎐 Guru`](https://github.com/Guru322)
+* [`Phantom`](https://github.com/phantom6w6)
+* [`ChristianNimb`](https://github.com/ChristianNimb)
 * [`🎐 Itz Me`](https://github.com/teamolduser)
 * [`🎐 Ahmii-kun`](https://github.com/Ahmii-kun)
 * [`🎐 Xeon`](https://github.com/DGXeon)
